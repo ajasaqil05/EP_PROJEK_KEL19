@@ -1,6 +1,6 @@
 # [Teknologi Tanpa Empati: Urgensi Etika Digital dalam Merespons Konten Duka di Media Sosial]
 
-> **[Deskripsi Singkat Proyek]:** Program edukasi dan pengabdian masyarakat mengenai [Ethics Awareness] yang ditujukan bagi siswa [SMA Swadhipa 2 Natar / kelas 12] sebagai bagian dari mata kuliah [Etika Profesi].
+> **[Deskripsi Singkat Proyek]:** Program edukasi dan pengabdian masyarakat mengenai [Ethics Awareness] yang ditujukan bagi siswa SMA Swadhipa 2 Natar / kelas 12, sebagai bagian dari mata kuliah Etika Profesi.
 
 ---
 
