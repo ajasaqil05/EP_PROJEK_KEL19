@@ -14,7 +14,7 @@ Akses cepat menuju papan manajemen tugas, bahan ajar, dan instrumen evaluasi pro
 | **Materi & Slide Presentasi** | Canva / PPT | [Buka Slide Presentasi]([URL-Canva-atau-GDrive]) | Desain visual materi, studi kasus & simulasi |
 | **Pre-Test (Kognitif)** | Google Forms / Quizizz | [Buka Pre-Test]([URL-Pre-Test]) | 5–10 soal pemahaman awal siswa |
 | **Post-Test (Kognitif)** | Google Forms / Quizizz | [Buka Post-Test]([URL-Post-Test]) | 5–10 soal evaluasi pemahaman akhir siswa |
-| **Kuisioner Kepuasan (Afektif)** | Google Forms | [Buka Kuisioner Evaluasi]([https://forms.gle/vNo5U9Y2uccNjmL8A]) | 5 pertanyaan skala Likert (1–5) |
+| **Kuisioner Kepuasan (Afektif)** | Google Forms | [Buka Kuisioner Evaluasi](https://forms.gle/vNo5U9Y2uccNjmL8A) | 5 pertanyaan skala Likert (1–5) |
 
 ---
 
