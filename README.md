@@ -22,10 +22,10 @@ Akses cepat menuju papan manajemen tugas, bahan ajar, dan instrumen evaluasi pro
 
 | Peran | Nama Lengkap | NPM / NIDN | Akun GitHub |
 | :--- | :--- | :--- | :--- |
-| **Ketua Kelompok** | Sultan Aqil Syafiq | `[25782027]` | `@[username-github]` |
-| **Anggota 1** | Yandri Nata Rizki | `[25782029]` | `@[username-github]` |
-| **Anggota 2** | Alizar Pratama | `[25782089]` | `@[username-github]` |
-| **Anggota 3** | Bakti Ari Putra | `[25782092]` | `@[username-github]` |
+| **Ketua Proyek** | Sultan Aqil Syafiq | `[25782027]` | `@[username-github]` |
+| **PIC Evaluasi & Publikasi Media** | Yandri Nata Rizki | `[25782029]` | `@[username-github]` |
+| **Sekretaris/Humas** | Alizar Pratama | `[25782089]` | `@[username-github]` |
+| **PIC Materi & Acara** | Bakti Ari Putra | `[25782092]` | `@[username-github]` |
 | **Co-Supervisor (Semester 5)** | Ikrom Safei | `[24782076]` | `@[username-github]` |
 | **Supervisor (Semester 7)** | Silcilia | `[23758057]` | `@[username-github]` |
 | **Dosen Pembimbing** | Ir. Ismail Puji Saputra, S. Kom., M. Kom | `[NIDN/NIP]` | `@[username-github]` |
